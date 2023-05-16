@@ -1,0 +1,11 @@
+[
+      {
+            "nombre": "Juan",
+            "edad": 25
+      },
+      {
+            "nombre": "Mar\u00eda",
+            "edad": 30,
+            "nivel": "Gold"
+      }
+]
